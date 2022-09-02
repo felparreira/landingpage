@@ -44,9 +44,9 @@ body, html {
 
 .btn-menu button{
     display:block;
-    background-image: linear-gradient(#0c0c0c 45%, #282828 55%);
+    background-image: linear-gradient(#282828 45%, #0c0c0c 55%);
     border-radius: 10px;
-    border:#fff 2px solid;
+    border:rgb(187, 187, 187)  2px solid;
     width:200px;
     height: 50px;
     font-weight:bold ;
