@@ -13,7 +13,7 @@ require_once('header.php');
             <h4>Clique no carro para alternar as cores.</h4>         
         </div>
         <div class="col-25">
-            <h4>Onix Plus 1.0 Turbo 2022</h4>
+            <h3>Onix Plus 1.0 Turbo 2022</h3>
             <p>Potência:</br>
                 116cv(A)  116cv (G)   a 5500 RPM</br></br>
                 
